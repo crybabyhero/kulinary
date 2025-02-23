@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed top-0 left-0 w-full bg-white border-b border-gray-800 p-4 shadow-md z-50">
+  <nav class="fixed top-0 left-0 w-full bg-white border-b border-gray-800 p-4 shadow-md z-50 mb-10">
     <div class="flex justify-between items-center mx-4 sm:mx-64">
       <!-- Logo -->
       <router-link to="/" class="text-purple-600 text-lg font-bold">

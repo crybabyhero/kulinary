@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="flex flex-col md:flex-row items-center justify-center px-4 py-18">
+  <div class="flex flex-col md:flex-row items-center justify-center px-4 py-32">
     <!-- Text Section -->
     <div class="text-center md:text-left max-w-xl mx-auto space-y-5 mr-0">
       <h1 class="text-3xl md:text-5xl font-bold text-gray-900 leading-tight">
